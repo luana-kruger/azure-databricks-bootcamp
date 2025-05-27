@@ -1,0 +1,37 @@
+# Ignore arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignore pastas de cache do Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore arquivos de log e temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore arquivos Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore ambientes virtuais
+env/
+venv/
+.venv/
+
+# Ignore arquivos e pastas de configuração do VSCode
+.vscode/
+*.code-workspace
+
+# Ignore outputs e artefatos
+*.out
+*.pdf
+*.zip
+
+# Ignore arquivos CSV grandes ou temporários
+*.csv
+
+# Pasta de dados do projeto 3 (não versionar arquivos locais)
+projeto-3-azure-databricks-notebook/data/
