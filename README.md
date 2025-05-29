@@ -14,7 +14,7 @@ Durante o bootcamp, os participantes são desafiados a aplicar os conceitos abor
 | 1 | Monitoramento de Custos com Azure | Criação de um dashboard personalizado no portal do Azure e configuração do recurso Azure Data Factory. | [projeto-1-azure-datafactory-cost](./projeto-1-azure-datafactory-cost) |
 | 2 | Redundância de Dados com Data Factory | Simulação da movimentação de dados de um SQL Server on-premises para o Azure Blob Storage com uso do Data Factory. | [projeto-2-datafactory-sql-to-blob](./projeto-2-datafactory-sql-to-blob) |
 | 3 | Análise com Notebooks no Azure Databricks | Criação de um ambiente Databricks com cluster Spark, importação de dados CSV e análise com SQL, visualização gráfica e PySpark em notebook. | [projeto-3-azure-databricks-notebook](./projeto-3-azure-databricks-notebook) |
-| 4 | *(em desenvolvimento)* | - | 🔒 Em breve |
+| 4 | Integração ADF com Azure DevOps | Configuração do Azure Data Factory com repositório Git do Azure DevOps para versionamento de pipelines e artefatos de dados. | [projeto-4-devops-datafactory](./projeto-4-devops-datafactory) |
 
 
 
@@ -26,6 +26,7 @@ Durante o bootcamp, os participantes são desafiados a aplicar os conceitos abor
   - Azure SQL Database
   - Azure Cloud Shell
   - Azure Databricks
+  - Azure DevOps
 - **Apache Spark**
   - Clusters Spark
   - SQL on Spark
@@ -36,7 +37,7 @@ Durante o bootcamp, os participantes são desafiados a aplicar os conceitos abor
   - Conceitos de Data Lake (camadas bronze, silver, gold)
   - Visualização de dados com notebooks interativos
   - Versionamento e organização de notebooks
-
+  - Integração com Git e controle de versões
 
 
 
